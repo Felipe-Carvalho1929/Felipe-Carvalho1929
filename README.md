@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm I'm Luis Felipe</h1>
+<h1 align="center">Hi 👋, I'm  Luis Felipe</h1>
 <h3 align="center">I am passionate about data science and economics</h3>
 
 - 🔭 I’m currently working on [Kaggle's Project](https://www.kaggle.com/felipepinguim)
