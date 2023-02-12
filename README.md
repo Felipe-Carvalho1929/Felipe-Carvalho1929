@@ -16,7 +16,6 @@
 - 📄 Know about my experiences [https://www.linkedin.com/in/luis-brisola-5b046m/](https://www.linkedin.com/in/luis-brisola-5b046m/)
 
 - ⚡ Fun fact **I love play chess**
-- My blog: https://escritaeconomica.blogspot.com/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
