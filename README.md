@@ -1,5 +1,13 @@
 <h1 align="center">Hi 👋, I'm  Luis Felipe</h1>
-<h3 align="center">I am passionate about data science and economics</h3>
+<h3 align="center">"I'm a passionate Economics student at UNICAMP, with a keen interest in macro and microeconomics. </h2> I'm dedicated to exploring the application of data analysis in the field, using powerful tools like Python and R to study economic phenomena.
+
+My ultimate goal is to work at the intersection of data science and economics, applying my skills to gain insights and make informed decisions. I'm driven by a deep curiosity and love for learning, always seeking to expand my knowledge and expertise.</h2>
+
+I believe that the combination of economic theory and data-driven analysis holds tremendous potential. Through my projects and studies, I strive to uncover patterns, trends, and relationships that contribute to a better understanding of economic dynamics.
+
+I'm particularly excited about connecting with professionals in the field, including those in HR and the job market. I'm eager to contribute my skills and insights to real-world challenges and collaborate on meaningful projects.</h2>
+
+Let's connect and explore the fascinating world of data-driven economics together!"</h3>
 
 - 🔭 I’m currently working on [Kaggle's Project](https://www.kaggle.com/felipepinguim)
 
