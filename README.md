@@ -23,7 +23,7 @@ Let's connect and explore the fascinating world of data-driven economics togethe
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/luis-brisola-5b046m/](https://www.linkedin.com/in/luis-brisola-5b046m/)
 
-- ⚡ Fun fact **I love play chess**
+- ⚡ Fun fact **I love chess and One Piece**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
